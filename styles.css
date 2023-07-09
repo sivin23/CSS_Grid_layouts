@@ -51,6 +51,10 @@ html,body
 	grid-gap: 0px;
 }
 
+#main-container div {
+	
+}
+
 #main-container div:nth-child(odd)
 {
 	background-color: darkslategrey;
